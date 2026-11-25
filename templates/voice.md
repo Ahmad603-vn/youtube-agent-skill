@@ -1,33 +1,42 @@
-# voice.md
+# Voice Profile
 
-Copy this to `~/.claude/youtube/voice.md` and fill it in. Every skill in this pack reads it. Ten
-minutes here is worth more than any prompt you will ever write, because on YouTube you have to say
-the words out loud and a script in the wrong voice is unreadable on camera.
+## Overall impression
+A natural, conversational masculine voice with a lower-mid speaking register. The three recordings show a fairly consistent vocal baseline, with a relaxed delivery rather than a highly projected, announcer-like performance.
 
-## Who I am talking to
+## Vocal characteristics
+- **Pitch:** Lower-mid range. The speaking fundamental frequency is generally centred around roughly 125–130 Hz in the sampled sections, with natural movement above and below that.
+- **Tone:** Grounded and fairly full, with a casual, direct quality.
+- **Texture:** Keep the voice natural. Do not artificially add rasp, gravel, heavy breathiness, or vocal fry.
+- **Resonance:** Maintain a comfortable, speech-like resonance; avoid an exaggerated bass or overly bright, thin sound.
+- **Pitch movement:** Use modest, natural rises and falls to emphasize meaning. Avoid a flat monotone and avoid dramatic theatrical inflections.
 
-One person. Name them properly - not "creators", but "someone with under a thousand subs who has
-made nine videos and cannot work out why none of them break 400 views".
+## Speaking style
+- Sound like someone speaking directly to another person, not reading a commercial or presenting a news bulletin.
+- Keep the delivery relaxed, clear, and matter-of-fact.
+- Use a moderate conversational pace. Allow short pauses between thoughts and slightly longer pauses at sentence boundaries.
+- Articulate clearly without over-enunciating every syllable.
+- Let emphasis fall naturally on important words; do not make every sentence sound equally emphatic.
+- Preserve small human variations in timing and intonation instead of making the delivery mechanically perfect.
 
-## How I actually talk
+## Accent and pronunciation
+The recordings should be treated as the primary reference for accent, vowel quality, consonants, and pronunciation. Preserve the speaker's natural accent rather than replacing it with a generic American or British accent. Do not exaggerate regional markers or turn them into a caricature.
 
-Paste the transcript of your best-performing video here, or three of them. Not what you wish you
-sounded like.
+## Emotional range
+Default to calm, approachable, and composed. Add warmth or enthusiasm when the words call for it, but keep emotional expression restrained and believable. Serious lines should sound sincere rather than artificially deep or dramatic.
 
-## Words I never use
+## Suggested voice-generation direction
+> A natural masculine speaking voice in a lower-mid register, with a grounded, relaxed, conversational delivery. Speak clearly at a moderate pace, using subtle pitch variation and natural pauses. Keep the tone direct, approachable, and composed. Preserve the speaker's accent and pronunciation as heard in the reference recordings. Avoid a polished announcer style, exaggerated bass, theatrical emphasis, or synthetic-sounding uniformity.
 
-The ones that are not mine. Be specific: "unlock", "game-changer", "dive in", "let's get into it".
+## Consistency notes
+1. Keep the same perceived age, vocal weight, pitch centre, and accent across clips.
+2. Prefer natural conversational rhythm over perfect studio diction.
+3. Do not add a character voice, imitation, or exaggerated regional accent.
+4. When matching new recordings, prioritize the reference audio over assumptions based on the written text.
 
-## Words I do use
+## Reference material
+This profile is based on the three supplied recordings:
+- `Standard recording 5.wav`
+- `Standard recording 3.wav`
+- `Standard recording 2.wav`
 
-Your tics. The phrases that are yours. Keep them.
-
-## What I will not claim
-
-Numbers I cannot show, results that are not mine, tools I have not used. Write them down so the
-skills refuse them for you instead of you catching it in the edit.
-
-## My format
-
-Length, how a video opens, whether there is an intro, whether you swear, whether you appear on
-camera, what the desk looks like.
+The pitch estimate is an acoustic guide, not a fixed target. Natural pitch and delivery will vary with emotion, sentence type, microphone distance, and recording conditions.
